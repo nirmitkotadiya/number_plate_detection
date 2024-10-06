@@ -5,8 +5,8 @@ This project demonstrates a number plate detection system using **OpenCV** for i
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Number Plate Detection System Presentation](#number-plate-detection-system-presentation)
-- [AI In Defence Presentation](#ai-in-defence-presentation)
+- [Number Plate Detection System Presentation](#project-presentation)
+- [AI In Defence Presentation](#seminar-presentation)
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [Usage](#usage)
