@@ -22,11 +22,15 @@ This project utilizes OpenCV to detect vehicle license plates from images. By us
 
 For a detailed overview of this project, check out the PowerPoint presentation:
 
+*Warning: Sorry, we can't display files of this size directly here. Please download the presentation to view it on your local system.*
+
 [Number Plate Detection System Presentation](https://github.com/nirmitkotadiya/number_plate_detection/blob/main/Number%20Plate%20Detection.pptx)
 
 ## Seminar Presentation
 
 For a detailed overview of the **AI in Defence** seminar, check out the PowerPoint presentation:
+
+*Warning: Sorry, we can't display files of this size directly here. Please download the presentation to view it on your local system.*
 
 [AI in Defence Seminar Presentation](https://github.com/nirmitkotadiya/number_plate_detection/blob/main/AI.pptx)
 
