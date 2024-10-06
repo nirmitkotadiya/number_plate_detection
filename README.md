@@ -52,13 +52,13 @@ For a detailed overview of the **AI in Defence** seminar, check out the PowerPoi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nirmitkotadiya/number-plate-detection.git
+   git clone https://github.com/nirmitkotadiya/number_plate_detection.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd number-plate-detection
+   cd number_plate_detection
    ```
 
 3. Install the required Python packages:
